@@ -38,3 +38,13 @@ img {
 <img src="https://s3.amazonaws.com/freecodecamp/FCCStickerPack.jpg" alt="freeCodeCamp stickers set">
 __________________________________________
 
+<style>
+img {
+  height: 100px;
+  weight: 100px;
+}
+</style>
+
+<img src="https://s3.amazonaws.com/freecodecamp/FCCStickers-CamperBot200x200.jpg" alt="freeCodeCamp sticker that says 'Because CamperBot Cares'">
+__________________________________________
+
